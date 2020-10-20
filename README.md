@@ -41,13 +41,16 @@ I inspect the CSVs and sketch out an ERD of the tables.
 
 ### Bonus
 
-I Import the SQL database into Pandas. 
-
+#### I Import the SQL database into Pandas. 
 
 Create a histogram to visualize the most common salary ranges for employees.
+
+
 ![alt text](https://github.com/SeanPei-coder/sql-challenge/blob/main/EmployeeSQL/The%20Most%20Common%20Salary%20Range.png)
 
 
 
 Create a bar chart of average salary by title.
+
+
 ![alt text](https://github.com/SeanPei-coder/sql-challenge/blob/main/EmployeeSQL/Average%20Salaries%20by%20Titles.png)
